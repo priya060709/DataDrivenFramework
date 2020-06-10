@@ -1,0 +1,9 @@
+20:04:13,840 DEBUG testcases:66 - Config file loaded !!!
+20:04:13,848 DEBUG testcases:81 - OR file loaded !!!
+20:04:22,993 DEBUG testcases:117 - Chrome Launched !!!
+20:04:26,041 DEBUG testcases:128 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+20:04:31,329 DEBUG testcases:20 - Inside Login Test
+20:04:31,329 DEBUG testcases:21 - before click initiated
+20:04:31,518 DEBUG testcases:143 - before click button[ng-click='manager()']
+20:04:37,562 DEBUG testcases:30 - Login successfully executed
+20:04:38,779 DEBUG testcases:230 - test execution completed !!!

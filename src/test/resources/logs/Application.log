@@ -1,0 +1,9 @@
+09/06/2020 20:04:13 testcases Config file loaded !!!
+09/06/2020 20:04:13 testcases OR file loaded !!!
+09/06/2020 20:04:22 testcases Chrome Launched !!!
+09/06/2020 20:04:26 testcases Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+09/06/2020 20:04:31 testcases Inside Login Test
+09/06/2020 20:04:31 testcases before click initiated
+09/06/2020 20:04:31 testcases before click button[ng-click='manager()']
+09/06/2020 20:04:37 testcases Login successfully executed
+09/06/2020 20:04:38 testcases test execution completed !!!
