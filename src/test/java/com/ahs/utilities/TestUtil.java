@@ -17,7 +17,7 @@ public class TestUtil extends testbase {
 
 	public static String screenshotPath;
 	public static String screenshotName;
-	public static ExcelReader excel = new ExcelReader("C:\\Users\\prasa\\workspace\\DataDrivenFramework\\src\\test\\resources\\excel\\testdata.xlsx");
+	public static ExcelReader excel = new ExcelReader(System.getProperty("user.dir") + "\\src\\test\\resources\\excel\\testdata.xlsx");
 	
 	public static void captureScreenshot() throws IOException {
 
