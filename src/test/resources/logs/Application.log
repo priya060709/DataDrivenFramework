@@ -1,9 +1,15 @@
-09/06/2020 20:04:13 testcases Config file loaded !!!
-09/06/2020 20:04:13 testcases OR file loaded !!!
-09/06/2020 20:04:22 testcases Chrome Launched !!!
-09/06/2020 20:04:26 testcases Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
-09/06/2020 20:04:31 testcases Inside Login Test
-09/06/2020 20:04:31 testcases before click initiated
-09/06/2020 20:04:31 testcases before click button[ng-click='manager()']
-09/06/2020 20:04:37 testcases Login successfully executed
-09/06/2020 20:04:38 testcases test execution completed !!!
+09/06/2020 22:19:23 testcases Config file loaded !!!
+09/06/2020 22:19:23 testcases OR file loaded !!!
+09/06/2020 22:19:32 testcases Chrome Launched !!!
+09/06/2020 22:19:35 testcases Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+09/06/2020 22:19:40 testcases Inside Login Test
+09/06/2020 22:19:40 testcases before click initiated
+09/06/2020 22:19:40 testcases before click button[ng-click='manager()']
+09/06/2020 22:19:46 testcases Login successfully executed
+09/06/2020 22:19:46 testcases before click button[ng-click='addCust()']
+09/06/2020 22:19:48 testcases before click button[type='submit']
+09/06/2020 22:19:52 testcases before click button[ng-click='addCust()']
+09/06/2020 22:19:53 testcases before click button[type='submit']
+09/06/2020 22:19:57 testcases before click button[ng-click='addCust()']
+09/06/2020 22:19:58 testcases before click button[type='submit']
+09/06/2020 22:20:03 testcases test execution completed !!!

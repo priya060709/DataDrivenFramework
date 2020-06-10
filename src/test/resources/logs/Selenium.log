@@ -1,9 +1,15 @@
-20:04:13,840 DEBUG testcases:66 - Config file loaded !!!
-20:04:13,848 DEBUG testcases:81 - OR file loaded !!!
-20:04:22,993 DEBUG testcases:117 - Chrome Launched !!!
-20:04:26,041 DEBUG testcases:128 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
-20:04:31,329 DEBUG testcases:20 - Inside Login Test
-20:04:31,329 DEBUG testcases:21 - before click initiated
-20:04:31,518 DEBUG testcases:143 - before click button[ng-click='manager()']
-20:04:37,562 DEBUG testcases:30 - Login successfully executed
-20:04:38,779 DEBUG testcases:230 - test execution completed !!!
+22:19:23,037 DEBUG testcases:66 - Config file loaded !!!
+22:19:23,048 DEBUG testcases:81 - OR file loaded !!!
+22:19:32,216 DEBUG testcases:117 - Chrome Launched !!!
+22:19:35,113 DEBUG testcases:128 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+22:19:40,391 DEBUG testcases:20 - Inside Login Test
+22:19:40,391 DEBUG testcases:21 - before click initiated
+22:19:40,557 DEBUG testcases:143 - before click button[ng-click='manager()']
+22:19:46,590 DEBUG testcases:30 - Login successfully executed
+22:19:46,819 DEBUG testcases:143 - before click button[ng-click='addCust()']
+22:19:48,603 DEBUG testcases:143 - before click button[type='submit']
+22:19:52,754 DEBUG testcases:143 - before click button[ng-click='addCust()']
+22:19:53,363 DEBUG testcases:143 - before click button[type='submit']
+22:19:57,478 DEBUG testcases:143 - before click button[ng-click='addCust()']
+22:19:58,134 DEBUG testcases:143 - before click button[type='submit']
+22:20:03,179 DEBUG testcases:230 - test execution completed !!!
